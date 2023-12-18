@@ -1,0 +1,60 @@
+{
+  "user": [
+    {
+      "id": 1,
+      "name": "harman",
+      "email": "har@text.com",
+      "password": "har1"
+    },
+    {
+      "id": 2,
+      "name": "lskjf",
+      "email": "hlls@text.com",
+      "password": "hlr1"
+    },
+    {
+      "email": "aa@aa",
+      "password": "aaaa",
+      "name": "aaa",
+      "id": 3
+    },
+    {
+      "email": "bb",
+      "password": "ljs",
+      "name": "bbb",
+      "id": 4
+    },
+    {
+      "email": "bru@123",
+      "password": "lskdjfjk",
+      "name": "bruce",
+      "id": 5
+    },
+    {
+      "email": "lks",
+      "password": "sjlfd",
+      "name": "lkdj",
+      "id": 6
+    },
+    {
+      "email": "ksd",
+      "password": "ldsk",
+      "name": "slkd",
+      "id": 7
+    }
+  ],
+  "restaurants": [
+    {
+      "id": 2,
+      "name": "Starbucks",
+      "contact": 222222,
+      "address": "Jalandhar sector 50"
+    },
+    {
+      "name": "Stars",
+      "contact": "1234",
+      "address": "Delhi Saket",
+      "id": 4
+    }
+  ]
+}
